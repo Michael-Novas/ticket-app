@@ -1,0 +1,3 @@
+CTRL + SHIFT + L = Edits all highlighted text at once
+
+Video Guide For Walkthrough: https://youtu.be/H0vhkoXljq0?t=530 53:31
