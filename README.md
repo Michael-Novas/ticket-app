@@ -1,3 +1,11 @@
+# I created a Support Ticketing App Using Next.js, Tailwind CSS, and MongoDB
+
+## Things I learned:
+### - MongoDB, Creating a Database, Linking DB to my project
+### - Tailwind CSS, Adding components, creating dynamic CSS throughout different layers of the project, etc.
+### Next.js, Creating an application using the framework, connecting different components together to create one functioning application, and adding MongoDB functions to dynamically Create, Update, and Delete information in the Created Database.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
